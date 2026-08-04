@@ -16,7 +16,7 @@ Strings
 String Indexing
 String Slicing
 String Formatting (f-strings)
-Skills Practised
+Skills Practiced
 Writing and running Python programs
 Working with variables and data types
 Accepting user input
@@ -27,6 +27,7 @@ Using conditional statements
 Debugging and correcting syntax errors
 Solving simple business-related programming problems
 Mini Projects
+
 1. Student ID Card Generator
 Created a simple student ID card using print() and input().
 
@@ -52,7 +53,7 @@ Work with Jupyter Notebook.
 Write and run Python code in an interactive environment.
 Debug syntax and logical errors.
 Apply Python fundamentals to solve programming problems.
-Build confidence by practising with different business scenarios.
+Build confidence by practicing with different business scenarios.
 Tools Used
 Python 3
 Jupyter Notebook
@@ -60,14 +61,30 @@ GitHub
 Repository Structure
 Each notebook contains the exercises completed during the SmartBizCrux Python Study Group and follows the order of the lessons covered in class.
 
-![Lesson 1](Screenshott/Lesson1-overview.png)
+### Lesson 1: Overview 
+![Lesson 1](<Screenshott/Lesson1- overview.png>)
+
+### Lesson 2: Overview 
 ![Lesson 2](Screenshott/Lesson2-overview.png)
+
+### Lesson 3: Overview
 ![Lesson 3](Screenshott/Lesson3-overview.png)
+
+### Lesson 4: Overview
 ![Lesson 4A](Screenshott/Lesson4A-overview.png)
+
 ![Lesson 4B](Screenshott/Lesson4B-overview.png)
+
+### Lesson 5: Overview
 ![Lesson 5A](Screenshott/Lesson5A-overview.png)
+
 ![Lesson 5B](Screenshott/Lesson5B-overview.png)
+
 ![Lesson 5Bi](Screenshott/Lesson5Bi-overview.png)
+
+### Lesson 6: Overview
 ![Lesson 6A](Screenshott/Lesson6A-overview.png)
+
 ![Lesson 6Ai](Screenshott/Lesson6Ai-overview.png)
+
 ![Lesson 6B](Screenshott/Lesson6B-overvew.png)
