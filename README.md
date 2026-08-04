@@ -59,3 +59,5 @@ Jupyter Notebook
 GitHub
 Repository Structure
 Each notebook contains the exercises completed during the SmartBizCrux Python Study Group and follows the order of the lessons covered in class.
+
+![Lesson 1](screenshott/Lesson1-overview.png)
